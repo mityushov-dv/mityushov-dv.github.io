@@ -1,6 +1,6 @@
 html {
-  font-size: 12px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
-  font-family: placeholder: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-family: 'Lobster', cursive;
   background-color: #00539F;
 }
 
